@@ -1,6 +1,6 @@
 
 # Alpha-s-Todo-List
-An extremely simple Todo list app made in python that u can write anything in. 
+A simple Todo list app made in python that u can write anything in! Even HTML code to some extent!. 
 
 <img width="636" height="540" alt="Screenshot 2026-07-10 210342" src="https://github.com/user-attachments/assets/c3fb3969-c9fd-4448-94d6-bc084098115f" />
 
